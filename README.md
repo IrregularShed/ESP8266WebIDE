@@ -6,21 +6,21 @@ Based on Gordon Williams [WebIDE](https://github.com/espruino/EspruinoWebIDE) fo
 * Serial Interface
 * local project handling
 * upload code to ESP8266
-* upload and execute(dofile) files to ESp8266
+* upload and execute(dofile) files to ESP8266
 * code snippets
 * Terminal window
 * Code Editor window (codemirror)
 * Settings window
 
-[![ScreenShot](https://github.com/jumjum123/ESP8266WebIDE/raw/master/img/WebIDE.JPG)]
-[![ScreenShot](https://github.com/jumjum123/ESP8266WebIDE/raw/master/img/WebIDERunning.JPG)]
-[![ScreenShot](https://github.com/jumjum123/ESP8266WebIDE/raw/master/img/WebIDEAbout.JPG)]
+![ScreenShot](https://github.com/jumjum123/ESP8266WebIDE/raw/master/img/WebIDE.JPG)
+![ScreenShot](https://github.com/jumjum123/ESP8266WebIDE/raw/master/img/WebIDERunning.JPG)
+![ScreenShot](https://github.com/jumjum123/ESP8266WebIDE/raw/master/img/WebIDEAbout.JPG)
 
 Installing From Chrome Web Store
 ----------------------------
 
 * Install the [Chrome Web Browser](https://www.google.com/intl/en/chrome/browser/)
-* [Go Here (to be done)] to find the app in the Chrome Web Store
+* [Go Here](https://chrome.google.com/webstore/detail/lua-web-ide/imcadgiofccfolmogolfjnahpphaepfe) to find the app in the Chrome Web Store
 * Click 'Install'
 * Click 'Launch App'
 
@@ -28,7 +28,7 @@ Permissions
 ----------
 
 This web app requires the following permissions:
-* *Serial port access* : So that it can access the Espruino board via USB/Serial
+* *Serial port access* : So that it can access your ESP8266 board via USB/Serial
 * *Filesystem/storage access* : For loading/saving your JavaScript files to your local disk
 
 Using
